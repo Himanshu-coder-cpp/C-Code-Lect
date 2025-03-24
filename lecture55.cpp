@@ -11,7 +11,7 @@
 // {
 //     public:
 //     int data;
-//     Node *left, *right;
+//     Node *left, *right; //Node* stores the address of another Node.
 
 //     Node(int value)
 //     {
